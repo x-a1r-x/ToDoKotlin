@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Do&amp;Share</string>
+
+    <string name="no_data">Нет данных</string>
+    <string name="title">Название</string>
+    <string name="description">Описание</string>
+    <string name="search">Поиск</string>
+    <string name="sort_by">Сортировать по</string>
+    <string name="priority_high">Возрастанию приоритета</string>
+    <string name="priority_low">Убыванию приоритета</string>
+    <string name="delete_all">Удалить все</string>
+    <string name="add">Добавить</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="menu_search">Поиск</string>
+
+    <string-array name="priorities">
+        <item>Высокий приоритет</item>
+        <item>Средний приоритет</item>
+        <item>Низкий приоритет</item>
+    </string-array>
+</resources>
