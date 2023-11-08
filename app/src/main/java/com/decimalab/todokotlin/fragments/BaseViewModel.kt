@@ -49,13 +49,13 @@ class BaseViewModel(application: Application) : AndroidViewModel(application) {
 
     fun parsePriority(priority: String): Priority {
         return when (priority) {
-            "High Priority" -> {
+            "Высокий приоритет" -> {
                 Priority.HIGH
             }
-            "Medium Priority" -> {
+            "Средний приоритет" -> {
                 Priority.MEDIUM
             }
-            "Low Priority" -> {
+            "Низкий приоритет" -> {
                 Priority.LOW
             }
             else -> Priority.LOW
