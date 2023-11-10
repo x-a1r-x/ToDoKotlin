@@ -28,7 +28,7 @@
     <fragment
         android:id="@+id/addFragment"
         android:name="com.decimalab.todokotlin.fragments.add.AddFragment"
-        android:label="Add"
+        android:label="Добавить"
         tools:layout="@layout/fragment_add">
         <action
             android:id="@+id/action_addFragment_to_listFragment"
@@ -39,7 +39,7 @@
     <fragment
         android:id="@+id/updateFragment"
         android:name="com.decimalab.todokotlin.fragments.update.UpdateFragment"
-        android:label="Update"
+        android:label="Обновить"
         tools:layout="@layout/fragment_update">
         <action
             android:id="@+id/action_updateFragment_to_listFragment"
